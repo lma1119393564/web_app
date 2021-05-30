@@ -1,0 +1,64 @@
+{"level":"INFO","time":"2021-05-30T11:40:42.111+0800","caller":"web_app2/main.go:68","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:40:42.126+0800","caller":"web_app2/main.go:76","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:42:33.542+0800","caller":"web_app2/main.go:68","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:42:33.558+0800","caller":"web_app2/main.go:76","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:44:28.902+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:44:28.917+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:48:39.446+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:48:39.461+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:50:25.204+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:50:25.219+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:51:26.798+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:51:26.812+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:51:41.349+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:51:41.364+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:54:46.422+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:54:46.437+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:55:10.469+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:55:10.483+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T11:58:37.148+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T11:58:37.162+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:01:14.492+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:01:14.506+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:01:40.420+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:01:40.434+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:02:23.443+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:02:23.458+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:03:07.459+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:03:07.472+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:03:50.851+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:03:50.866+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:06:19.634+0800","caller":"web_app2/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:06:19.650+0800","caller":"web_app2/main.go:78","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:08:08.451+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:08:08.466+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:12:13.017+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:12:13.031+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:14:22.522+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:14:22.535+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:15:36.280+0800","caller":"web_app2/main.go:68","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:15:36.296+0800","caller":"web_app2/main.go:76","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:16:10.722+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0.0005666}
+{"level":"INFO","time":"2021-05-30T12:16:11.000+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:16:46.641+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:16:46.643+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:17:04.642+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0.0003386}
+{"level":"INFO","time":"2021-05-30T12:17:05.651+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:17:26.981+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:17:27.001+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:20:48.912+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:20:48.914+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:21:12.408+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:21:12.423+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:21:46.440+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:21:46.455+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:23:17.063+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:23:17.078+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:43:02.868+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0.0001194}
+{"level":"INFO","time":"2021-05-30T12:43:02.944+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:43:14.804+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:43:14.806+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
+{"level":"INFO","time":"2021-05-30T12:43:25.302+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0.0000306}
+{"level":"INFO","time":"2021-05-30T12:43:25.376+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-05-30T12:54:31.625+0800","caller":"web_app2/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-30T12:54:31.627+0800","caller":"web_app2/main.go:77","msg":"Server exiting"}
